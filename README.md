@@ -3,13 +3,13 @@ This repository showcases four interactive Excel dashboards developed during my 
 
 ## 📊 Dashboards Included:
 
-###📊 Learning Aspirations Dashboard
+### 📊 Learning Aspirations Dashboard
 This dashboard highlights GenZ's aspirations for higher education, preferred leaning environments, and workplace expectations.
 
-###📊 Manager Aspirations Dashboard
+### 📊 Manager Aspirations Dashboard
 Explores how individuals align with company missions and highlights preferred company types.
 
-###📊 Mission Aspirations Dashboard
+### 📊 Mission Aspirations Dashboard
 Focuses on managerial preferences, work setup, salary expectations, and challenges in the workplace.
 
 ## Tools Used:
