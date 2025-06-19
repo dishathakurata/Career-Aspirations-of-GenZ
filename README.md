@@ -1,6 +1,4 @@
-<div align="centre"
-  # Career Aspirations of GenZ
-/div>
+# Career Aspirations of GenZ
   
 This repository showcases four interactive Excel dashboards developed during my Data Analytics internship at KultureHire. The project focusing on data collection, cleaning, analysis and creating visualizations to support decision-making for the Career Aspirations of GenZ.
 
