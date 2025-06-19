@@ -1,7 +1,10 @@
-# Career Aspirations of GenZ
+<div align="centre"
+  # Career Aspirations of GenZ
+/div>
+  
 This repository showcases four interactive Excel dashboards developed during my Data Analytics internship at KultureHire. The project focusing on data collection, cleaning, analysis and creating visualizations to support decision-making for the Career Aspirations of GenZ.
 
-## 📊 Dashboards Included:
+## Dashboards Included:
 
 ### 📊 Learning Aspirations Dashboard
 This dashboard highlights GenZ's aspirations for higher education, preferred leaning environments, and workplace expectations.
